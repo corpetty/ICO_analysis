@@ -1,0 +1,10 @@
+# Jupyter Notebook checkpoints
+/.ipynb_checkpoints
+
+# password files
+passfile
+api_key.json
+
+.gitignore
+
+UTC--2017-05-02T22-33-33.882Z--8f53781799515e5dc8f5d00c528940cae99ac969
